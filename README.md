@@ -27,4 +27,4 @@ My analysis provides Social Buzz with a clear understanding of the most engaging
 ## Conclusion
 The Social Buzz Data Analysis Project highlights Animals as the leading content category, with other significant interests spanning Science, Healthy Eating, Technology, and Food. The analysis also shows a drop in content creation from 2020 to 2021, offering valuable insights for future engagement strategies.
 
-Please refer to the [powerpoint]() presentation for more analysis.
+Please refer to the [powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fsanmyyung%2FSocial-Buzz-Data-Analysis%2Frefs%2Fheads%2Fmain%2FSlides.pptx&wdOrigin=BROWSELINK) presentation for more analysis.
